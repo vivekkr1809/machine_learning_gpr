@@ -1,5 +1,5 @@
 # Predicting Material Properties of Concrete Using Machine Learning
-The public repository containing the code developed for predicting material properties of concrete from GPR reflections using supervised machine learning. The work is published at: https://journals.sagepub.com/doi/full/10.1177/1475921720976999. If you use the code in your work please consider citing
+The public repository containing the code developed for predicting material properties of concrete from GPR reflections using supervised machine learning. The work is published at: https://journals.sagepub.com/doi/full/10.1177/1475921720976999 and https://www.mdpi.com/2072-4292/13/9/1846. If you use the code in your work please consider citing
 
 ```
 @article{morris2020predicting,   
